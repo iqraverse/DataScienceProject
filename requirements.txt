@@ -1,0 +1,6 @@
+requests
+pandas
+hopsworks
+numpy
+scikit-learn
+python-dateutil
