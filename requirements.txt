@@ -4,3 +4,9 @@ hopsworks
 numpy
 scikit-learn
 python-dateutil
+openpyxl 
+python-dotenv
+scikit-learn>=1.2
+pandas>=1.5
+numpy>=1.24
+joblib>=1.3
