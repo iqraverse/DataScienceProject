@@ -1,0 +1,17 @@
+# ========== Data files ==========
+data/raw/
+data/daily/*.csv
+
+# ========== Models ==========
+models/
+*.joblib
+
+# ========== Python cache ==========
+*.pyc
+__pycache__/
+
+# ========== Environment/config files ==========
+.env
+
+# ========== MLflow local tracking folder ==========
+mlruns/
