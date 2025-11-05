@@ -1,12 +1,9 @@
 requests
-pandas
-hopsworks
-numpy
-scikit-learn
-python-dateutil
-openpyxl 
-python-dotenv
-scikit-learn>=1.2
 pandas>=1.5
 numpy>=1.24
+scikit-learn>=1.2
 joblib>=1.3
+python-dateutil
+openpyxl
+python-dotenv
+mlflow>=2.12.0
