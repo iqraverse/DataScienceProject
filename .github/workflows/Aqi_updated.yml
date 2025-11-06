@@ -45,3 +45,4 @@ jobs:
           git add data/daily/predictions.csv || true
           git commit -m "🔄 Auto-update predictions [skip ci]" || echo "No changes"
           git push
+
